@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">abcapp</string>
+    <string name="msg_box">enter password</string>
+    <string name="Continue">Continue</string>
+    <string name="reenter">Please entter your password to continue</string>
+    <string name="textview">TextView</string>
+    <string name="ask">Please let us know why you are deactivating</string>
+</resources>
